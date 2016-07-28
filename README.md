@@ -39,9 +39,9 @@ The whole project is released under GPL-3.0 license, please read the LICENSE
 file under the root of the project repository for the details.
 
 For the detail about bash-completion , please visit its homepage and GitHub:
-https://alioth.debian.org/projects/bash-completion/
-https://github.com/scop/bash-completion
+ - https://alioth.debian.org/projects/bash-completion/
+ - https://github.com/scop/bash-completion
 
 For the detail about Mininet, please visit its homepage and GitHub:
-http://mininet.org
-https://github.com/mininet/mininet
+ - http://mininet.org
+ - https://github.com/mininet/mininet
